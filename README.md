@@ -1,4 +1,4 @@
-# Data_Analytic_Week_2
+# Data Analytic Learning (2)
 ## Types of Data analysis
 ### 1) Descriptive analysis
 Descriptive analysis is a form of data examination that assists in the portrayal, illustration, or informative consolidation of data points, enabling the emergence of patterns that fulfill all the criteria of the dataset.
